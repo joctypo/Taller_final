@@ -1,0 +1,4 @@
+juliPokedex,fuego
+osquiPokedex,agua
+rataPokedex,normal
+bermiPokedex,tierra
